@@ -26,7 +26,7 @@ function App() {
   return (
     <div className="App">
       {/* The Head */}
-      <h1>To Do List With React Hooks</h1>
+      <h1>ToDo List With React Hooks</h1>
       {/* The Input */}
       <input
         type='text'

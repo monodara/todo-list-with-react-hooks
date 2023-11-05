@@ -1,5 +1,5 @@
 {
-  "name": "a-new-todo-list",
+  "name": "react-hooks-todolist",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
